@@ -1,6 +1,6 @@
 # FHNW - CML1 Immobilienrechner Challenge
 
-Code und Modelle sind im Jupiter-Notebook: `Bericht_Final.jpynb`
+Code und Modelle sind im Jupiter-Notebook: `main_notebook.jpynb`
 
 Das Notebook kann komplett ausgeführt werden im VSCode.
 
