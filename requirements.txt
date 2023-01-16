@@ -1,0 +1,15 @@
+numpy
+pandas
+sklearn
+statsmodels
+pandas_profiling 
+pandoc
+scipy
+seaborn
+matplotlib
+nbconvert
+webpdf
+fastapi
+hypercorn
+asyncio
+joblib

@@ -1,0 +1,5 @@
+*.vscode
+/data/immo_data_202208_v2.csv
+/data/Redundant Data/immoscout_cleaned_lat_lon_fixed_v9.csv
+/data/test_data-Kaggle-v0.11.csv
+/data/Redundant Data/test_data-Kaggle-v0.10.csv
