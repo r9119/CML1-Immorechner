@@ -10,7 +10,7 @@ Vor dem Starten des Notebooks müssen die folgenden Dateien lokal in dem ‘data
 
 Diese Daten konnten wir nicht in das GitRepo hochladen, weil diese die maximale Datengrösse überschritten haben.
 
-Die required libraries des notebook konnen durch `requirements.txt` mit pip installiert werden.
+Die required libraries des notebook konnen mit `requirements.txt` durch pip installiert werden.
 
 
 ### API Setup
